@@ -4,6 +4,7 @@ title: Jak snadno získat dobrovolníky pro školní akce - bez registrace
 subtitle: Maximalizujte účast na školním blešáku nebo sportovním dnu
 tags: [dobrovolníci, organizace akcí]
 author: ijoin.app
+language: cs
 ---
 # Získejte dobrovolníky pro školní akce snadno - s [ijoin.app](https://ijoin.app/index-cs.html)
 

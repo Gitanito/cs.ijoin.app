@@ -4,6 +4,7 @@ title: Jak zajistit 100% účast na vaší tajné Pop-up Večeři
 subtitle: Revoluční nástroj pro organizaci exkluzivních akcí bez otravného přihlašování
 tags: [organizace akcí, pop-up dinner]
 author: ijoin.app
+language: cs
 ---
 # Už žádné honění hostů: Získejte potvrzení účasti na vaší exkluzivní večeři během sekund
 

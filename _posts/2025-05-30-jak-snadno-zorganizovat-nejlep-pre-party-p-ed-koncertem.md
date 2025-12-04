@@ -4,6 +4,7 @@ title: Jak snadno zorganizovat nejlepší Pre-Party před koncertem
 subtitle: Zapomeňte na chaotické WhatsApp skupiny. Zjistěte, kdo skutečně dorazí.
 tags: [organizace akcí, RSVP]
 author: ijoin.app
+language: cs
 ---
 # Jak snadno zorganizovat nejlepší Pre-Party před koncertem
 

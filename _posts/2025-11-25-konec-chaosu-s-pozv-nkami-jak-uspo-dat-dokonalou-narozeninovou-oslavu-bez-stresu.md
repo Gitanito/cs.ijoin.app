@@ -4,6 +4,7 @@ title: Konec chaosu s pozvánkami - Jak uspořádat dokonalou narozeninovou osla
 subtitle: Maximalizujte účast na dětské party s jedním jednoduchým odkazem
 tags: [organizace narozenin, potvrzení účasti]
 author: ijoin.app
+language: cs
 ---
 
 # Uspořádejte narozeninovou oslavu, na kterou se dostaví opravdu všichni

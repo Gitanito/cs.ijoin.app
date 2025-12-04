@@ -4,6 +4,7 @@ title: Jak bleskově svolat spontánní co-working bez nekonečných emailů
 subtitle: Přestaňte ztrácet čas s RSVP a začněte pracovat na tom, co je důležité
 tags: [coworking, organizace-akcí]
 author: ijoin.app
+language: cs
 ---
 
 # Optimalizujte svá co-workingová setkání - Rychlé přihlášení a aktuální informace

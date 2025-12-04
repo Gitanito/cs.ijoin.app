@@ -4,6 +4,7 @@ title: Konec chaosu pri organizovaní Skill-Share stretnutí
 subtitle: Ako maximalizovať účasť na vašich komunitných večeroch bez registrácie hostí
 tags: [organizace akcí, komunitní akce]
 author: ijoin.app
+language: cs
 ---
 
 # Zorganizujte bez námahy váš lokálny Skill-Share večer a pritom získajte presné počty účastníkov

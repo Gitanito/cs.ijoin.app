@@ -4,6 +4,7 @@ title: Konec chaosu v organizaci studijních skupin a doučování
 subtitle: Jak získat maximální účast na doučování bez otravných registrací
 tags: [organizace doučování, studentské akce]
 author: ijoin.app
+language: cs
 ---
 
 # Zjednodušte organizaci studijních skupin a získejte jistotu účasti na zkoušce!

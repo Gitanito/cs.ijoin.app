@@ -4,6 +4,7 @@ title: Konec Chaosu v Knihovnách - Jak Snadno Řídit Čtenářský Klub
 subtitle: Maximální Účast Bez Registrace - Řešení pro Knihomoly
 tags: [Knihovní klub, Organizace akcí]
 author: ijoin.app
+language: cs
 ---
 
 # Konec Chaosu v Knihovnách: Jak Snadno Řídit Čtenářský Klub

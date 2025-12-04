@@ -4,6 +4,7 @@ title: Jak Získat Maximum Testerů pro Váš Beta Produkt Bez Registrace
 subtitle: Zjednodušte si organizaci Beta Testování - Rychlé pozvánky a maximum zpětné vazby
 tags: [beta testování, organizace akcí]
 author: ijoin.app
+language: cs
 ---
 
 # Získání Beta Testerů Zjednodušeno - Maximální Účast pro Váš Nový Produkt

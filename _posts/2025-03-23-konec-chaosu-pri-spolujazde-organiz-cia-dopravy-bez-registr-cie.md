@@ -4,6 +4,7 @@ title: Konec chaosu pri spolujazde - Organizácia dopravy bez registrácie
 subtitle: Zjednodušte koordináciu športových jázd a pendlovania jedným klikom
 tags: [organizácia dopravy, spolujazda]
 author: ijoin.app
+language: cs
 ---
 
 # Konec chaosu pri spolujazde - Organizácia dopravy bez registrácie

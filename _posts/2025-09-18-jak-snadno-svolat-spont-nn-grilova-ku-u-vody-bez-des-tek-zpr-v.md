@@ -4,6 +4,7 @@ title: Jak snadno svolat spontánní grilovačku u vody bez desítek zpráv
 subtitle: Získejte okamžité potvrzení účasti na jakékoli události – bez registrace
 tags: [organizace událostí, spontánní akce]
 author: ijoin.app
+language: cs
 ---
 
 # Už žádné zmatky v chatu- Organizujte spontánní akce s lehkostí

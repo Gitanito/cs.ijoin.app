@@ -4,6 +4,7 @@ title: Konec Chaosu v Organizaci- Jak Spontánní Akce Snadno Zvládnout
 subtitle: Spontánní Picknik, Sportovní Trénink nebo Večírek- Získejte maximum potvrzených účastí bez registrace
 tags: [organizace akcí, potvrzení účasti]
 author: ijoin.app
+language: cs
 ---
 # Už Vás Nebaví Honička za Odpověďmi- Získejte Okamžité Potvrzení Účasti na Váš Spontánní Picknik
 

@@ -4,6 +4,7 @@ title: Získejte Okamžité UX Feedbacky - Bez Složité Registrace pro Hosty
 subtitle: Jak maximalizovat účast na testování produktů a sběru zpětné vazby
 tags: [organizace eventů, sběr feedbacku]
 author: ijoin.app
+language: cs
 ---
 
 # Získejte Okamžité UX Feedbacky – Bez Složité Registrace pro Hosty

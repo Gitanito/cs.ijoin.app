@@ -4,6 +4,7 @@ title: Jak snadno zorganizovat hromadné sledování sportu bez registrace
 subtitle: Maximální účast fanoušků s minimem starostí pro organizátora
 tags: [organizace sportu, public viewing]
 author: ijoin.app
+language: cs
 ---
 # Užijte si velký zápas – Nechte starosti s organizací na nás
 

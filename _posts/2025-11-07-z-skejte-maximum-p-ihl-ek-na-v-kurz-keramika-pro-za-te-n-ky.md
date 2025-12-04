@@ -4,6 +4,7 @@ title: Získejte maximum přihlášek na váš kurz Keramika pro začátečníky
 subtitle: Jak dramaticky zvýšit účast na vašich workshopech bez složitých formulářů
 tags: [organizace akcí, keramika]
 author: ijoin.app
+language: cs
 ---
 
 # Už žádné složité registrace- Jak snadno naplnit váš Töpferkurs pro začátečníky

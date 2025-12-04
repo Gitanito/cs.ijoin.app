@@ -4,6 +4,7 @@ title: Jak Zvládnout Přihlašování na Komunitní Akce Bez Chaosu a Registrac
 subtitle: Zvyšte účast na vašem tematickém večeru - snadno a zdarma
 tags: [organizace akcí, komunitní akce]
 author: ijoin.app
+language: cs
 ---
 
 # Získejte Maximální Účast na Vaší Čtenářské Besedě či Diskusním Večeru

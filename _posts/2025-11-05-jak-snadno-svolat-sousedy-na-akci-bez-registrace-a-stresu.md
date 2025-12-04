@@ -4,6 +4,7 @@ title: Jak snadno svolat sousedy na akci - Bez registrace a stresu
 subtitle: Okamžité zapojení komunity pro efektivní sousedskou výpomoc
 tags: [sousedska-pomoc, organizace-akci]
 author: ijoin.app
+language: cs
 ---
 
 # Už žádné složité registrace - Okamžitá sousedská pomoc s [ijoin.app](https://ijoin.app/index-cs.html)

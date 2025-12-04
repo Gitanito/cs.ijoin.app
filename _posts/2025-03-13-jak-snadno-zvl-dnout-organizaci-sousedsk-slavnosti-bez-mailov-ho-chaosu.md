@@ -4,6 +4,7 @@ title: Jak snadno zvládnout organizaci sousedské slavnosti bez mailového chao
 subtitle: Maximalizujte účast a minimalizujte stres při plánování komunitních akcí
 tags: [organizace akcí, sousedská slavnost]
 author: ijoin.app
+language: cs
 ---
 
 # Získejte potvrzení účasti a pomoc s grilováním jedním kliknutím

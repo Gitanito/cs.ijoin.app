@@ -4,6 +4,7 @@ title: Jak snadno organizovat týdenní herní večery bez zbytečného chaosu
 subtitle: Maximalizujte účast na vašem pravidelném setkání s deskovými hrami
 tags: [organizace akcí, deskové hry]
 author: ijoin.app
+language: cs
 ---
 # Už vás nebaví věčný zmatek s potvrzováním účasti na vašem herním večeru?
 

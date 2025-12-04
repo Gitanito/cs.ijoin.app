@@ -4,6 +4,7 @@ title: Jak zajistit 90% účast na vašem Alumni setkání bez složité registr
 subtitle: Zapomeňte na e-maily a tabulky - Získejte okamžité potvrzení účasti na setkání
 tags: [organizace setkání, alumni stammtisch]
 author: ijoin.app
+language: cs
 ---
 # Získejte okamžitá RSVP pro váš Alumni Stammtisch – Bez nutnosti přihlášení
 

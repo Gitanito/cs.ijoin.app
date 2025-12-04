@@ -4,6 +4,7 @@ title: Konec chaosu s organizací výletů a túr
 subtitle: Jak získat 100% potvrzení účasti na vaši další akci bez registrace
 tags: [organizace akcí, turistika]
 author: ijoin.app
+language: cs
 ---
 
 # Jak zajistit, že se na váš příští výlet přihlásí každý, kdo má zájem

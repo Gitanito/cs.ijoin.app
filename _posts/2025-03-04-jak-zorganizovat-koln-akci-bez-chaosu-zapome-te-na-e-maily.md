@@ -4,6 +4,7 @@ title: Jak Zorganizovat Školní Akci Bez Chaosu - Zapomeňte na E-maily
 subtitle: Stoprocentní účast a žádné zbytečné registrace pro rodiče
 tags: [organizace akcí, školní akce]
 author: ijoin.app
+language: cs
 ---
 # Už Vás Nebaví Honička s Rodiči Před Školními Akcemi?
 

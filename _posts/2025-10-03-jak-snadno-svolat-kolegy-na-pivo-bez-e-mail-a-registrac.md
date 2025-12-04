@@ -4,6 +4,7 @@ title: Jak snadno svolat kolegy na pivo - bez e-mailů a registrací
 subtitle: Maximální účast na After-Work akcích - Jediný odkaz stačí
 tags: [organizace akcí, after-work]
 author: ijoin.app
+language: cs
 ---
 
 # Získejte přehled o účasti na After-Work akcích během minut

@@ -4,6 +4,7 @@ title: Konec chaosu s jízdami - Jak snadno zorganizovat cestu na školní výle
 subtitle: Maximální účast a jednoduché plánování spolujízd bez registrace
 tags: [organizace akcí, spolujízda]
 author: ijoin.app
+language: cs
 ---
 
 # Zjednodušte plánování spolujízd na školní výlety a akce

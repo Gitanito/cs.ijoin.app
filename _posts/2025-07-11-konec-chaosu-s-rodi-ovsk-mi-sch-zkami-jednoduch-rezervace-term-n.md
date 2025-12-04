@@ -4,6 +4,7 @@ title: Konec Chaosu s Rodičovskými Schůzkami - Jednoduchá Rezervace Termín�
 subtitle: Jak zajistit maximální účast rodičů bez složitých registrací a e-mailů
 tags: [rodicovske schuzky, rezervace casu]
 author: ijoin.app
+language: cs
 ---
 
 # Zpřehledněte Rezervaci Času pro Rodičovské Schůzky s [ijoin.app](https://ijoin.app/index-cs.html)

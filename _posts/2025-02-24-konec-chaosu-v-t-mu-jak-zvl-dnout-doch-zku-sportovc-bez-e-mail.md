@@ -4,6 +4,7 @@ title: Konec Chaosu v Týmu - Jak Zvládnout Docházku Sportovců Bez E-mailů
 subtitle: Zjednodušte komunikaci s rodiči a mějte přehled o docházce na tréninky a zápasy
 tags: [organizace sportu, řízení týmu]
 author: ijoin.app
+language: cs
 ---
 # Už žádné Hádání - Získejte Okamžitý Přehled o Docházce na Tréninky a Zápasy
 

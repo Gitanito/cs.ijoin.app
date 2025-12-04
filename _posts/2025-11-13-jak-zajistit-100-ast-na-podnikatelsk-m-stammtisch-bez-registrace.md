@@ -4,6 +4,7 @@ title: Jak zajistit 100% účast na podnikatelském Stammtisch bez registrace
 subtitle: Zjednodušte organizaci networkingových akcí a zvyšte docházku členů spolku
 tags: [organizace akcí, podnikatelský stammtisch]
 author: ijoin.app
+language: cs
 ---
 
 # Už vás nebaví honit účastníky na podnikatelský Stammtisch? Získejte potvrzení účasti okamžitě

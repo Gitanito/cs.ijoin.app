@@ -4,6 +4,7 @@ title: Jak Zorganizovat Workshop Bez Registračních Hrud - Maximální Účast
 subtitle: Přeměňte zájemce na účastníky s jednoduchým odkazem – bez přihlašování a aplikací
 tags: [organizace workshopu, registrace na události]
 author: ijoin.app
+language: cs
 ---
 
 # Získejte Plnou Účast na Kreativním Workshopu - Snadno a Rychle

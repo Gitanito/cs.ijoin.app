@@ -4,6 +4,7 @@ title: Jak Bleskově Zorganizovat Spontánní Akci - Bez Skupinových Chatů
 subtitle: Dejte sbohem chaosu v chatech a zjistěte, kdo přijde na pivo - okamžitě
 tags: [organizace akcí, spontánní setkání]
 author: ijoin.app
+language: cs
 ---
 
 # Zjistěte, Kdo Přijde na Spontánní Pivní Sraz Během 30 Vteřin

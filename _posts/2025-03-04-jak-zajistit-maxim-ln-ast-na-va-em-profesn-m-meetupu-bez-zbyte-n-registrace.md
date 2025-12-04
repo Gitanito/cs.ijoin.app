@@ -4,6 +4,7 @@ title: Jak zajistit maximální účast na vašem profesním Meetupu bez zbyteč
 subtitle: Organizujte neformální setkání pro kolegy z oboru snadno a zdarma
 tags: [organizace eventů, profesní networking]
 author: ijoin.app
+language: cs
 ---
 
 # Zastavte chaos v RSVP-potvrzeních a uspořádejte úspěšný Branchen-Meetup

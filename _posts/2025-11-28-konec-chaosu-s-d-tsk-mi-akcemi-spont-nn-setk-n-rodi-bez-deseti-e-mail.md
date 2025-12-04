@@ -4,6 +4,7 @@ title: Konec Chaosu s Dětskými Akcemi - Spontánní Setkání Rodičů Bez Des
 subtitle: Jak zajistit maximální účast na hřišti nebo výletu s dětmi - Jediný odkaz stačí
 tags: [organizace akcí, setkání rodičů]
 author: ijoin.app
+language: cs
 ---
 
 # Hřiště na Zavolanou - Jak Bleskově Uspořádat Spontánní Setkání Rodičů a Dětí
